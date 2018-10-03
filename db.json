@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "firstName": "Bob",
+      "age": 27,
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "firstName": "Mike",
+      "age": 41,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Tom",
+      "age": 55,
+      "id": "rmYrgpK",
+      "companyId": "2"
+    },
+    {
+      "firstName": "Jack",
+      "age": 39,
+      "companyId": "1",
+      "id": "g75Ml4j"
+    },
+    {
+      "firstName": "Bart",
+      "age": 9,
+      "id": "K7y5PZC"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Amazon",
+      "focus": "online shopping"
+    },
+    {
+      "id": "2",
+      "name": "GitHub",
+      "focus": "version control"
+    },
+    {
+      "id": "3",
+      "name": "Twitter",
+      "focus": "Social Media"
+    }
+  ]
+}
